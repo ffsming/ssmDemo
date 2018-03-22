@@ -1,0 +1,4 @@
+com/hxwy/pojo/message/MessageDetailModel.class
+com/hxwy/dao/message/MessageDetailMapper.class
+com/hxwy/service/message/impl/MessageDetailServiceImpl.class
+com/hxwy/service/message/MessageDetailService.class
