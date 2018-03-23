@@ -1,0 +1,6 @@
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/service/message/MessageDetailService.java
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/DemoApplication.java
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/dao/message/MessageDetailMapper.java
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/pojo/message/MessageDetailModel.java
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/common/GlobalDefaultExceptionHandler.java
+/home/sun/IdeaProjects/ssmDemo/ssmDemo/src/main/java/com/hxwy/service/message/impl/MessageDetailServiceImpl.java

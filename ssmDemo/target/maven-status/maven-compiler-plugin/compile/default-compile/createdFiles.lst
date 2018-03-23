@@ -1,0 +1,7 @@
+com/hxwy/pojo/message/MessageDetailModel.class
+com/hxwy/common/GlobalDefaultExceptionHandler.class
+com/hxwy/dao/message/MessageDetailMapper.class
+com/hxwy/DemoApplication.class
+com/hxwy/DemoApplication$test.class
+com/hxwy/service/message/impl/MessageDetailServiceImpl.class
+com/hxwy/service/message/MessageDetailService.class
